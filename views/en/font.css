@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Airbnb";
+    src: local("AirbnbCereal_W_Lt"),
+    url("https://uat.presshop.live/presshop_rest_apis/views/en/subAdminCredential/airbnb-cereal-font/AirbnbCereal_W_Lt.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "AirbnbMedium";
+    src: local("AirbnbCereal_W_Md"),
+    url("https://uat.presshop.live/presshop_rest_apis/views/en/subAdminCredential/airbnb-cereal-font/AirbnbCereal_W_Md.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "AirbnbBold";
+    src: local("AirbnbCereal_W_Bd"),
+    url("https://uat.presshop.live/presshop_rest_apis/views/en/subAdminCredential/airbnb-cereal-font/AirbnbCereal_W_Bd.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Airbnbbk";
+    src: local("AirbnbCereal_W_Bk"),
+    url("https://uat.presshop.live/presshop_rest_apis/views/en/subAdminCredential/airbnb-cereal-font/AirbnbCereal_W_Bk.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ArialCE";
+    src: local("ArialCE"),
+    url("https://uat.presshop.live/presshop_rest_apis/views/en/subAdminCredential/airbnb-cereal-font/ArialCE.ttf") format("truetype");
+}
